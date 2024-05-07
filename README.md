@@ -7,10 +7,10 @@ In the field of computer vision, deep learning has demonstrated remarkable perfo
 
 The primary objectives of this project include:
 
-Developing a baseline deep learning model for CIFAR-10 image classification.
-Experimenting with different model tuning techniques (e.g., adjusting model capacity, regularization, dropout) to enhance classification accuracy.
-Evaluating the effectiveness of these techniques and discussing computational requirements and scalability.
-Analyzing ethical and social implications associated with using deep learning models for image classification.
+1. Developing a baseline deep learning model for CIFAR-10 image classification.
+2. Experimenting with different model tuning techniques (e.g., adjusting model capacity, regularization, dropout) to enhance classification accuracy.
+3. Evaluating the effectiveness of these techniques and discussing computational requirements and scalability.
+4. Analyzing ethical and social implications associated with using deep learning models for image classification.
 
 # Acknowledgements
 CIFAR-10 dataset source: Kaggle
